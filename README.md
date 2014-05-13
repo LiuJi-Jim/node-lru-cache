@@ -1,4 +1,6 @@
-# lru cache
+# lru cache (中文注释版)
+
+### 源代码加了中文注释，直接看代码吧，这个readme随后再翻译吧(翻译个啥啊，反正都看得懂)
 
 A cache object that deletes the least-recently-used items.
 
